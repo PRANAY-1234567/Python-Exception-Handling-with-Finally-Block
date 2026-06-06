@@ -2,8 +2,6 @@
 
 <img width="593" height="185" alt="image" src="https://github.com/user-attachments/assets/e1a8432a-ea10-4ccb-9784-ab590f7377ee" />
 
-Python Exception Handling with Finally Block
-
 # Python Exception Handling with Finally Block
 
 ## 📌 Overview
