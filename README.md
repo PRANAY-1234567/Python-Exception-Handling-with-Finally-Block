@@ -3,7 +3,6 @@
 ## 📌 Overview
 
 This project demonstrates the use of **exception handling** and the **finally block** in Python. The program accepts two integers from the user, performs integer division, handles common exceptions, and ensures that a result is displayed regardless of whether an exception occurs.
-
 The example showcases how `try`, `except`, and `finally` work together to make Python programs more robust and reliable.
 
 ---
